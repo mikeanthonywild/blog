@@ -7,6 +7,9 @@ SITENAME = 'Mike Wild'
 SITEURL = ''
 
 PATH = 'content'
+STATIC_PATHS = [
+    'images'
+]
 
 TIMEZONE = 'Europe/London'
 

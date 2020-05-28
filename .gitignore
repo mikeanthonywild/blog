@@ -3,3 +3,6 @@ __pycache__/
 
 # Pelican stuff
 /output
+
+# Local Netlify folder
+.netlify
