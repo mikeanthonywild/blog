@@ -1,0 +1,2 @@
+# This file is only intended to bootstrap Netlify
+poetry==1.0.5
